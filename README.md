@@ -56,6 +56,7 @@ gambar output + potongan code
   ```
 gambar 
  ```
+ ![ss6](foto/ss6.png)
 
 
 ## Sekian dari Saya "Terima kasih"
