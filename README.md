@@ -10,10 +10,12 @@ TI.22.A2
 
 ##### step by step
 1. Gunakan perintrak print di paling atas untuk pemberitahuan informasi menu yang terdapat di program
-##
+
+
  ```
 gambar output + potongan code
  ```
+
 
  ![ss5](foto/ss5.png)
 
