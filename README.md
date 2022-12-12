@@ -52,6 +52,11 @@ gambar output + potongan code
 ![ss4](foto/ss4.png)
 
 
+### Diagram class
+
+![diagram_class](diagram_class.jpeg)
+
+
  ### FLOWCHART
   ```
 gambar 
