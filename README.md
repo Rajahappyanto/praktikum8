@@ -22,10 +22,10 @@ gambar output + potongan code
 2. Deklarasi data{} untuk class data
 3. def init dan statement if untuk perintah di masing masing def
 4. Def add(self) untuk perintah tambah data dan isi nya
- ``s
+ ```
 gambar output + potongan code
- ``
-
+ ```
+ 
  ![ss1](foto/ss1.png)
 
 5. gunakan class rajahappyanto(boleh nama lain) untuk/supaya isi dari def add ter aplikasikan/terhubung ke fungsi lainnya(def show, def change, def delete, def exit)
